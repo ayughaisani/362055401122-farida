@@ -1,4 +1,16 @@
 # Hello World
+Nama Kelompok:
+Nisaul Apriyanti (362055401133)
+
+Nadiya Pramita Sari (362055401130)
+
+Dimas Hendra Wijaya (362055401129)
+
+Farida Ayu Ghaisani (362055401122)
+
+![Screenshot (24)](https://user-images.githubusercontent.com/100395223/158210599-b7317809-ac2b-4128-b339-113c3fb7cb12.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/100395223/158210665-179a09cb-b4de-44a0-ad46-b6ed93741fb1.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/100395223/158210704-cc79cc6e-5ed2-4e7f-9922-f729ecafd127.png)
 
 A new Flutter project.
 
@@ -14,4 +26,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Screenshot (4)](https://user-images.githubusercontent.com/100395223/155702796-2e2a2419-5520-4c5b-97f6-0b850ee5b6dd.png)
